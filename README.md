@@ -1,5 +1,5 @@
 # FCP-CSC-18-1015
-APPLICATION OF A TASK MANAGEMENT SYSTEM
+APPLICATION FOR AN ORGANIZATIONAL TASK MANAGEMENT SYSTEM
 
 About The Project
 The Task Management System is a simple project that can help a certain company manage its project task progress. The system has 3 types of system users which are the Admin, Project Manager, and the Regular Employee. The Admin user are those users that have access to all of the data stored in the database of the system especially on creating and managing system users. The Project Managers are those users that manage the project details and progress under her/his management. The Regular Employees will submit their work productivity in each task of the project which makes the system requires the employee to submit their start and end time range of their work on a certain task and this data will be calculated in the report as project members' work duration.
